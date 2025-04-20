@@ -1,7 +1,12 @@
 # ✨️ Hello World, I'm BoBo!
 I'm a web developer and artist from Romania 🇷🇴!
 
-![](https://nirzak-streak-stats.vercel.app/?user=hlbobo&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=hlbobo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hlbobo&theme=dark&hide_border=false">
+  </img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlbobo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  </img>
+</div>
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@BoBo_H) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bogdanhategan)
