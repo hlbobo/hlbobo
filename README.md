@@ -1,11 +1,5 @@
-# 💫 About Me:
-Making websites, music, and small videogames
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hlbobo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hlbobo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hlbobo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://nirzak-streak-stats.vercel.app/?user=hlbobo&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=hlbobo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@BoBo_H) [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/bogdanhategan.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bogdanhategan)
