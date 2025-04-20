@@ -17,7 +17,7 @@ I'm a web developer and artist from Romania 🇷🇴!
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></img>
   </a>
   <a href="https://www.instagram.com/bogdanhategan>
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
   </a>
 </div>
 
