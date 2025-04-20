@@ -8,11 +8,11 @@ I'm a web developer and artist from Romania 🇷🇴!
   </img>
 </div>
 
-<div allign="center">
+<div align="center">
   <h1>🔗 Connect with Me:</h1>
 </div>
 
-<div allign="center">
+<div align="center">
   <a href="https://www.youtube.com/@BoBo_H">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></img>
   </a>
@@ -21,7 +21,7 @@ I'm a web developer and artist from Romania 🇷🇴!
   </a>
 </div>
 
-<div allign="center">
+<div align="center">
   <h1>💻 Tech Stack:</h1>
 </div>
 
