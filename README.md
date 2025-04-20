@@ -13,10 +13,12 @@ I'm a web developer and artist from Romania 🇷🇴!
 </div>
 
 <div allign="center">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"><a href="https://youtube.com/@BoBo_H">
-  </img>
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"><a href="https://instagram.com/bogdanhategan>
-  </img>
+  <a href="https://www.youtube.com/@BoBo_H">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></img>
+  </a>
+  <a href="https://instagram.com/bogdanhategan>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></img>
+  </a>
 </div>
 
 <div allign="center">
