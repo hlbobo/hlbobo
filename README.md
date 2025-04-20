@@ -16,8 +16,9 @@ I'm a web developer and artist from Romania 🇷🇴!
   <a href="https://www.youtube.com/@BoBo_H">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></img>
   </a>
+  
   <a href="https://www.instagram.com/bogdanhategan>
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></img>
   </a>
 </div>
 
