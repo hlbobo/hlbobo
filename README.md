@@ -9,20 +9,6 @@ I'm a web developer and artist from Romania 🇷🇴!
 </div>
 
 <div align="center">
-  <h1>🔗 Connect with Me:</h1>
-</div>
-
-<div align="center">
-  <a href="https://www.youtube.com/@BoBo_H">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></img>
-  </a>
-  
-  <a href="https://www.instagram.com/bogdanhategan">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></img>
-  </a>
-</div>
-
-<div align="center">
   <h1>💻 Tech Stack:</h1>
 </div>
 
@@ -36,6 +22,24 @@ I'm a web developer and artist from Romania 🇷🇴!
   <img src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+</div>
+
+<div align="center">
+  <h1>🔗 Connect with Me:</h1>
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/@BoBo_H">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></img>
+  </a>
+  
+  <a href="https://www.instagram.com/bogdanhategan">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></img>
+  </a>
+
+  <a href="mailto:bogdan.hategan90@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
